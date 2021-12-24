@@ -18,4 +18,4 @@
 - 作成者：wataharu-84
 
 # License
-"login_mypage" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+"ecsite" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
